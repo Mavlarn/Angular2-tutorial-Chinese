@@ -20,4 +20,4 @@
 
 [Angular2表单-自定义验证器](http://codin.im/2016/10/08/angular2-form-custom-validator/)
 
-
+[理解Angular2的样式和view封装](http://codin.im/2016/10/08/understanding-angular2-view-and-style/)
