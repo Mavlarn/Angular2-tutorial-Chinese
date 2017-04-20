@@ -27,3 +27,7 @@
 [Angular2路由教程2-使用Guard和Resolve进行验证和权限控制](http://codin.im/2016/11/12/angular2-route-2-guard-resolve/)
 
 [Angular2路由教程3-子模块以及异步加载](http://codin.im/2016/12/08/angular2-route-3-sub-module-lazyload/)
+
+[Ionic2入门教程 实现TodoList App-1 初识Ionic2](http://codin.im/2017/04/10/ionic2-tutorial-todolist-app/)
+
+[Ionic2入门教程 实现TodoList App-2 实现TodoList App](http://codin.im/2017/04/14/ionic2-tutorial-todolist-app-2/)
