@@ -33,3 +33,12 @@
 [Ionic2入门教程 实现TodoList App-2 实现TodoList App](http://codin.im/2017/04/14/ionic2-tutorial-todolist-app-2/)
 
 [理解Angular的providers-给Http添加默认headers](http://codin.im/2017/06/30/angular2-default-headers-with-providers/)
+
+Angular应用架构设计系列：
+http://codin.im/tags/Angular-Architecture/
+[Angular应用架构设计-1:显示组件和功能组件](http://codin.im/2018/05/08/angular-architecture-1-components-design/)
+[Angular应用架构设计-2:Data Service模式](http://codin.im/2018/05/09/angular-architecture-2-data-service-pattern/)
+[Angular应用架构设计-3:Ngrx Store](http://codin.im/2018/05/10/angular-architecture-3-ngrx-store/)
+[Angular应用架构设计-4:响应式编程](http://codin.im/2018/05/14/angular-architecture-4-reactive-programming/)
+[Angular应用架构设计-5:设计原则](http://codin.im/2018/05/14/angular-architecture-5-summary/)
+
